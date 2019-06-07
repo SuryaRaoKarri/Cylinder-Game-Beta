@@ -1,0 +1,86 @@
+﻿  litTexturedCylinder.cpp
+f:\projects\maze game beta\game\littexturedcylinder.cpp(53): warning C4305: 'initializing': truncation from 'double' to 'float'
+f:\projects\maze game beta\game\littexturedcylinder.cpp(150): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+f:\projects\maze game beta\game\littexturedcylinder.cpp(155): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+f:\projects\maze game beta\game\littexturedcylinder.cpp(167): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+f:\projects\maze game beta\game\littexturedcylinder.cpp(172): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+f:\projects\maze game beta\game\littexturedcylinder.cpp(237): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+f:\projects\maze game beta\game\littexturedcylinder.cpp(237): warning C4305: 'initializing': truncation from 'double' to 'float'
+f:\projects\maze game beta\game\littexturedcylinder.cpp(504): warning C4305: 'initializing': truncation from 'double' to 'float'
+f:\projects\maze game beta\game\littexturedcylinder.cpp(509): warning C4305: '+=': truncation from 'double' to 'float'
+f:\projects\maze game beta\game\littexturedcylinder.cpp(510): warning C4305: '=': truncation from 'double' to 'float'
+f:\projects\maze game beta\game\littexturedcylinder.cpp(510): warning C4305: '+=': truncation from 'double' to 'float'
+f:\projects\maze game beta\game\littexturedcylinder.cpp(517): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\projects\maze game beta\game\littexturedcylinder.cpp(518): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\projects\maze game beta\game\littexturedcylinder.cpp(520): warning C4305: '+=': truncation from 'double' to 'float'
+f:\projects\maze game beta\game\littexturedcylinder.cpp(522): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\projects\maze game beta\game\littexturedcylinder.cpp(692): warning C4305: '=': truncation from 'double' to 'float'
+f:\projects\maze game beta\game\littexturedcylinder.cpp(697): warning C4305: '+=': truncation from 'double' to 'float'
+f:\projects\maze game beta\game\littexturedcylinder.cpp(698): warning C4305: '=': truncation from 'double' to 'float'
+f:\projects\maze game beta\game\littexturedcylinder.cpp(698): warning C4305: '+=': truncation from 'double' to 'float'
+f:\projects\maze game beta\game\littexturedcylinder.cpp(705): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\projects\maze game beta\game\littexturedcylinder.cpp(706): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\projects\maze game beta\game\littexturedcylinder.cpp(708): warning C4305: '+=': truncation from 'double' to 'float'
+f:\projects\maze game beta\game\littexturedcylinder.cpp(710): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\projects\maze game beta\game\littexturedcylinder.cpp(824): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\projects\maze game beta\game\littexturedcylinder.cpp(825): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\projects\maze game beta\game\littexturedcylinder.cpp(826): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\projects\maze game beta\game\littexturedcylinder.cpp(827): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\projects\maze game beta\game\littexturedcylinder.cpp(831): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\projects\maze game beta\game\littexturedcylinder.cpp(833): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\projects\maze game beta\game\littexturedcylinder.cpp(838): warning C4305: 'initializing': truncation from 'double' to 'float'
+f:\projects\maze game beta\game\littexturedcylinder.cpp(838): warning C4305: '+=': truncation from 'double' to 'float'
+f:\projects\maze game beta\game\littexturedcylinder.cpp(843): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\projects\maze game beta\game\littexturedcylinder.cpp(844): warning C4305: '+=': truncation from 'double' to 'float'
+f:\projects\maze game beta\game\littexturedcylinder.cpp(848): warning C4305: '-=': truncation from 'double' to 'float'
+f:\projects\maze game beta\game\littexturedcylinder.cpp(897): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\projects\maze game beta\game\littexturedcylinder.cpp(898): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\projects\maze game beta\game\littexturedcylinder.cpp(899): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\projects\maze game beta\game\littexturedcylinder.cpp(900): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\projects\maze game beta\game\littexturedcylinder.cpp(904): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\projects\maze game beta\game\littexturedcylinder.cpp(906): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\projects\maze game beta\game\littexturedcylinder.cpp(911): warning C4305: 'initializing': truncation from 'double' to 'float'
+f:\projects\maze game beta\game\littexturedcylinder.cpp(911): warning C4305: '+=': truncation from 'double' to 'float'
+f:\projects\maze game beta\game\littexturedcylinder.cpp(916): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\projects\maze game beta\game\littexturedcylinder.cpp(917): warning C4305: '+=': truncation from 'double' to 'float'
+f:\projects\maze game beta\game\littexturedcylinder.cpp(921): warning C4305: '+=': truncation from 'double' to 'float'
+f:\projects\maze game beta\game\littexturedcylinder.cpp(977): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+f:\projects\maze game beta\game\littexturedcylinder.cpp(986): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\projects\maze game beta\game\littexturedcylinder.cpp(987): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\projects\maze game beta\game\littexturedcylinder.cpp(988): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\projects\maze game beta\game\littexturedcylinder.cpp(989): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\projects\maze game beta\game\littexturedcylinder.cpp(994): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\projects\maze game beta\game\littexturedcylinder.cpp(996): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\projects\maze game beta\game\littexturedcylinder.cpp(1000): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\projects\maze game beta\game\littexturedcylinder.cpp(1002): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\projects\maze game beta\game\littexturedcylinder.cpp(1014): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\projects\maze game beta\game\littexturedcylinder.cpp(1015): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\projects\maze game beta\game\littexturedcylinder.cpp(1016): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\projects\maze game beta\game\littexturedcylinder.cpp(1017): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\projects\maze game beta\game\littexturedcylinder.cpp(1022): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\projects\maze game beta\game\littexturedcylinder.cpp(1024): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\projects\maze game beta\game\littexturedcylinder.cpp(1028): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\projects\maze game beta\game\littexturedcylinder.cpp(1030): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\projects\maze game beta\game\littexturedcylinder.cpp(1044): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+f:\projects\maze game beta\game\littexturedcylinder.cpp(1051): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+f:\projects\maze game beta\game\littexturedcylinder.cpp(1067): warning C4305: '+=': truncation from 'double' to 'float'
+f:\projects\maze game beta\game\littexturedcylinder.cpp(1093): warning C4305: '-=': truncation from 'double' to 'float'
+f:\projects\maze game beta\game\littexturedcylinder.cpp(1098): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\projects\maze game beta\game\littexturedcylinder.cpp(1119): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+f:\projects\maze game beta\game\littexturedcylinder.cpp(1133): warning C4305: '-=': truncation from 'double' to 'float'
+f:\projects\maze game beta\game\littexturedcylinder.cpp(1134): warning C4305: '+=': truncation from 'double' to 'float'
+f:\projects\maze game beta\game\littexturedcylinder.cpp(1155): warning C4305: '-=': truncation from 'double' to 'float'
+f:\projects\maze game beta\game\littexturedcylinder.cpp(1156): warning C4305: '+=': truncation from 'double' to 'float'
+f:\projects\maze game beta\game\littexturedcylinder.cpp(1226): warning C4305: '+=': truncation from 'double' to 'float'
+f:\projects\maze game beta\game\littexturedcylinder.cpp(1227): warning C4305: '-=': truncation from 'double' to 'float'
+f:\projects\maze game beta\game\littexturedcylinder.cpp(1234): warning C4305: '-=': truncation from 'double' to 'float'
+f:\projects\maze game beta\game\littexturedcylinder.cpp(1235): warning C4305: '+=': truncation from 'double' to 'float'
+f:\projects\maze game beta\game\littexturedcylinder.cpp(1249): warning C4305: '+=': truncation from 'double' to 'float'
+f:\projects\maze game beta\game\littexturedcylinder.cpp(1251): warning C4305: '-=': truncation from 'double' to 'float'
+f:\projects\maze game beta\game\littexturedcylinder.cpp(1307): warning C4305: '+=': truncation from 'double' to 'float'
+f:\projects\maze game beta\game\littexturedcylinder.cpp(1310): warning C4305: '+=': truncation from 'double' to 'float'
+f:\projects\maze game beta\game\littexturedcylinder.cpp(1311): warning C4305: '+=': truncation from 'double' to 'float'
+  getBMP.cpp
+  Generating Code...
+  LitTexturedCylinder.vcxproj -> F:\Projects\Maze Game Beta\Game\Debug\LitTexturedCylinder.exe
+  LitTexturedCylinder.vcxproj -> F:\Projects\Maze Game Beta\Game\Debug\LitTexturedCylinder.pdb (Full PDB)
